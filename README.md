@@ -9,7 +9,7 @@ Python 3
 Pandas
 Scikit-learn
 Dataset
-The dataset used in this project is the MovieLens 100K dataset, which consists of 100,000 ratings from 943 users on 1,682 movies.
+TMDB 5000 Movie Dataset
 
 # Methodology
 
