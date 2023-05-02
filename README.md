@@ -19,7 +19,9 @@ The system calculates the similarity between movies using the cosine similarity 
 
 ## Screenshots
 
-Uploading Flashback - May 2, 2023 07_40_00.mp4…
+![App Screenshot](https://github.com/adityagothiwarekar/movie_recommendation_system/blob/main/Screenshot%202023-05-02%20081537.png)
+![App Screenshot](https://github.com/adityagothiwarekar/movie_recommendation_system/blob/main/Screenshot%202023-05-02%20081558.png)
+![App Screenshot](https://github.com/adityagothiwarekar/movie_recommendation_system/blob/main/Screenshot%202023-05-02%20081626.png)
 
 ## Authors
 
