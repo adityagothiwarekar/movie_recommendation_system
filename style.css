@@ -1,0 +1,15 @@
+body {
+    background-color: #212529;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #fff;
+}
+
+.btn {
+    background-color: #fff;
+    color: #212529;
+    font-weight: bold;
+}
